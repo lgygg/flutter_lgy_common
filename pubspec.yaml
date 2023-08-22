@@ -1,7 +1,7 @@
 name: flutter_lgy_common
 description: A  Flutter util.
 version: 0.0.1
-homepage: https://github.com/lgygg/common
+homepage: https://github.com/lgygg/flutter_lgy_common
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
